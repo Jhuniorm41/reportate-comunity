@@ -39,7 +39,7 @@ El objetivo es desarrollar un sistema para control y seguimiento  de síntomas
 *   Notificar los casos sospechosos a los médicos de su centro de salud.
 *   Permitir gestionar las fichas epidemiológicas de cada paciente.
 
-##   TECNOLOGIA
+##   TECNOLOGÍA
 Se ha utilizado en lo posible tecnologías Open Source para no incurrir en gastos de licencia que puedan poner en riesgo 
 la puesta en producción del sistema, entre los cuales tenemos:
 * Spring Boot 2.1.1.RELEASE para desarrollo del backend.
